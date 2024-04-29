@@ -8,12 +8,16 @@ Os conhecimentos podem ser o que preferir, comandos, problemas e suas resoluçõ
 
 </p>
 
+
+
 ### Tecnologias
 
 RUST | DIESEL
 
 
+
 ### Executar
+[Breve demonstração do sistema em vídeo](https://youtu.be/BDUKEjUk8Tc)
 
 1. Após o git clone, entre na pasta:
 
