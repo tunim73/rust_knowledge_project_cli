@@ -27,7 +27,13 @@ cd rust_knowledge_project_cli
 cargo run --bin rk -- -h
 ```
 
-3. Exemplos de comandos:
+3. Para executar os tests:
+
+```bash
+cargo test
+```
+
+4. Exemplos de comandos:
 
 - lista as categorias disponíveis 
 ```bash
