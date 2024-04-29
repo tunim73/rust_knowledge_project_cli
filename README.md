@@ -3,7 +3,7 @@
 
 <p>
 Construção de uma CLI em rust, a fim de aprender o básico da linguagem e de suas convenções.</b></b>
-O projeto conhecimento visa salvar, atualizar, buscar e deletar os conhecimentos de uma pessoa sobre git, docker, php e node, por enquanto. </b> 
+O Knowledge project ou projeto conhecimento visa salvar, atualizar, buscar e deletar os conhecimentos de uma pessoa sobre git, docker, php e node, por enquanto. </b> 
 Os conhecimentos podem ser o que preferir, comandos, problemas e suas resoluções, as dificuldades que passou, o tempo que levou, etc.
 
 </p>
