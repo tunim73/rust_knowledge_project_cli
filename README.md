@@ -30,7 +30,7 @@ cargo run --bin rk -- -h
 3. Para executar os tests:
 
 ```bash
-cargo test
+cargo test -- --test-threads 1
 ```
 
 4. Exemplos de comandos:
